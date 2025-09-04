@@ -1,70 +1,65 @@
-<!-- Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Tushar%20Ranjan%20Nayak&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Frontend%20%26%20MERN%20Developer%20%7C%20Java%20%26%20Python%20Programmer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:8A2BE2&height=200&section=header&text=Tushar%20Ranjan%20Nayak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  
 </p>
-
+  <h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | Java & Python Programmer</h3>
 
 
 
 ---
 
-# 👋 Hey there, I’m Tushar!  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Frontend+%7C+MERN+Developer;☕+Java+%26+Python+Programmer;🎨+UI%2FUX+Design+Lover;⚡+Always+Learning+New+Things)](https://git.io/typing-svg)
-
-🚀 *Frontend + MERN Stack Developer* | ☕ *Java & Python Programmer* | 🎨 *UI/UX Enthusiast*  
-
-I love building *scalable web apps* and creating *interactive, user-attractive designs*.  
-Currently exploring *MERN stack + frontend animations*, and always excited to learn new technologies.  
+## ✨ About Me  
+- 🌱 Currently exploring **MERN Stack & Frontend Development**  
+- 💻 Skilled in **Java & Python**  
+- ⚡ Passionate about building **interactive & user-attractive designs**  
+- 🎯 Goal: Become a **Full Stack Developer**  
 
 ---
 
-## 🔥 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,python,bootstrap,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
-
----
-
-## 🌟 Featured Projects
-🚀 Some of my favorite projects so far:  
-
-- 🍴 *Café Order System GUI* → Python GUI app with images, animations & sound  
-- 🛒 *MERN E-Commerce App* → Full-stack shopping cart system with filtering & search  
-- 🎨 *Animated Welcome Website* → Colorful HTML/CSS/JS site with animations & gradients  
-- 💻 *Portfolio Website* → Modern responsive portfolio with 3D design & animations  
-
-👉 Check all in my [Repositories](https://github.com/Tushar-Ranjan-Nayak?tab=repositories)  
-
----
-
-## ✨ About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7FF00&vCenter=true&width=600&lines=💡+I+love+to+explore+new+tech;🤝+Open+to+collaborate+on+Web+%26+MERN+projects;🎮+Gaming+%2B+🎵+Music+are+my+stress-busters;⚡+Fun+Fact:+I+debug+more+than+I+code)](https://git.io/typing-svg)
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Ranjan-Nayak&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Ranjan-Nayak&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-Ranjan-Nayak&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 📊 Skill Levels  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-  <a href="https://github.com/Tushar-Ranjan-Nayak"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  <img src="https://img.shields.io/badge/HTML-%2090%25-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%2085%25-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%2080%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br/>
+  <img src="https://img.shields.io/badge/React-%2075%25-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-%2070%25-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%2065%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/Java-%2080%25-red?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%2080%25-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ---
 
+## 🌐 Connect With Me  
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/Tushar-Ranjan-Nayak">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:8A2BE2&height=120&section=footer"/>
 </p>
